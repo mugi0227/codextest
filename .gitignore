@@ -1,0 +1,20 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+
+# Flutter specific
+flutter_*.png
+.android/
+.ios/
+.android*/
+
+# IDE files
+.idea/
+*.iml
+
+# Misc
+.DS_Store
